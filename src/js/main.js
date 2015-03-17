@@ -1,10 +1,10 @@
 import TestClass from 'modules/TestClass';
 
 $(function () {
-    var wtf = new TestClass('Lord Est');
-    wtf.sayName();
-    wtf.setAge(35);
-    wtf.sayAge();
+    var t = new TestClass('Lord Est');
+    t.sayName();
+    t.setAge(35);
+    t.sayAge();
 });
 
 export default {};

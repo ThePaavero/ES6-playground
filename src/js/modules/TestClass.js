@@ -4,12 +4,12 @@ class TestClass {
         this.name = name;
     }
 
-    setAge(age){
+    setAge(age) {
         this.age = age;
     }
 
     sayName() {
-        console.log('My name is ' + this.name);
+        console.log('My name is "' + this.name + '"');
     }
 
     sayAge() {
