@@ -1,0 +1,8 @@
+{
+  "jspm": {
+    "dependencies": {
+      "babel": "npm:babel@^4.7.13",
+      "jsonp": "npm:jsonp@^0.1.0"
+    }
+  }
+}
