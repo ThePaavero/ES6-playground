@@ -11,6 +11,7 @@ $production = ! in_array($_SERVER['HTTP_HOST'], [
 <head>
     <meta charset='utf-8'>
     <title>ES6 Test</title>
+    <link rel='stylesheet' href='assets/css/main.css'/>
 </head>
 <body>
 <h1>Hello</h1>
